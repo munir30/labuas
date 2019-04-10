@@ -20,3 +20,5 @@ LANGKAH KE TIGA
 
 lankah ke empat
 ![f](https://user-images.githubusercontent.com/46584196/55856467-95eaef00-5b94-11e9-8b62-e483cbd3af8f.png)
+![g](https://user-images.githubusercontent.com/46584196/55856703-448f2f80-5b95-11e9-85d7-ce1d03d427a8.png)
+
