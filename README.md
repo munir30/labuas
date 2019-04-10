@@ -1,4 +1,5 @@
-# UAS Bahasa Pemrograman 1
+# UAS Bahasa Pemrograman 
 
-silakan tuliskan langkah-langkah disertai screenshotnya
-# labuas
+langkah pertama
+
+![a](https://user-images.githubusercontent.com/46584196/55853991-7e5c3800-5b8d-11e9-9e7b-bb1460333f7b.png)
